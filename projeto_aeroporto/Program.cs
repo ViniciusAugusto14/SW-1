@@ -3,6 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Aeroporto p1 = new Aeroporto();
+        p1.MostraDados();
     }
 }

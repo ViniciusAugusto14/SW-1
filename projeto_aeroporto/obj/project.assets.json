@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\projeto_aereoporto\\projeto_aereoporto.csproj",
+      "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\SW-1-main\\projeto_aeroporto\\projeto_aereoporto.csproj",
       "projectName": "projeto_aereoporto",
-      "projectPath": "C:\\Users\\LAB4\\Desktop\\projeto_aereoporto\\projeto_aereoporto.csproj",
+      "projectPath": "C:\\Users\\LAB4\\Desktop\\SW-1-main\\projeto_aeroporto\\projeto_aereoporto.csproj",
       "packagesPath": "C:\\Users\\LAB4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAB4\\Desktop\\projeto_aereoporto\\obj\\",
+      "outputPath": "C:\\Users\\LAB4\\Desktop\\SW-1-main\\projeto_aeroporto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

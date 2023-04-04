@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\bin\Debug\net7.0\projeto_aereoporto.exe
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\bin\Debug\net7.0\projeto_aereoporto.deps.json
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\bin\Debug\net7.0\projeto_aereoporto.runtimeconfig.json
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\bin\Debug\net7.0\projeto_aereoporto.dll
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\bin\Debug\net7.0\projeto_aereoporto.pdb
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\projeto_aereoporto.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\projeto_aereoporto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\projeto_aereoporto.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\projeto_aereoporto.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\projeto_aereoporto.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\projeto_aereoporto.dll
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\refint\projeto_aereoporto.dll
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\projeto_aereoporto.pdb
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\projeto_aereoporto.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\SW-1-main\projeto_aeroporto\obj\Debug\net7.0\ref\projeto_aereoporto.dll
