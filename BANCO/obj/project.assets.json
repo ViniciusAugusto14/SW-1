@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\BANCO\\BANCO.csproj",
+      "projectUniqueName": "C:\\Users\\LAB4\\Downloads\\SW-1-main\\BANCO\\BANCO.csproj",
       "projectName": "BANCO",
-      "projectPath": "C:\\Users\\LAB4\\Desktop\\BANCO\\BANCO.csproj",
+      "projectPath": "C:\\Users\\LAB4\\Downloads\\SW-1-main\\BANCO\\BANCO.csproj",
       "packagesPath": "C:\\Users\\LAB4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAB4\\Desktop\\BANCO\\obj\\",
+      "outputPath": "C:\\Users\\LAB4\\Downloads\\SW-1-main\\BANCO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
