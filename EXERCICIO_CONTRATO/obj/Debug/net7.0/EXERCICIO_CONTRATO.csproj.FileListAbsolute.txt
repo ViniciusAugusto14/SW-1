@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\bin\Debug\net7.0\EXERCICIO_CONTRATO.exe
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\bin\Debug\net7.0\EXERCICIO_CONTRATO.deps.json
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\bin\Debug\net7.0\EXERCICIO_CONTRATO.runtimeconfig.json
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\bin\Debug\net7.0\EXERCICIO_CONTRATO.dll
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\bin\Debug\net7.0\EXERCICIO_CONTRATO.pdb
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\EXERCICIO_CONTRATO.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\EXERCICIO_CONTRATO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\EXERCICIO_CONTRATO.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\EXERCICIO_CONTRATO.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\EXERCICIO_CONTRATO.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\EXERCICIO_CONTRATO.dll
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\refint\EXERCICIO_CONTRATO.dll
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\EXERCICIO_CONTRATO.pdb
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\EXERCICIO_CONTRATO.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\EXERCICIO_CONTRATO\obj\Debug\net7.0\ref\EXERCICIO_CONTRATO.dll
