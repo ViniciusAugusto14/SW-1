@@ -8,5 +8,6 @@ class ContratoPessoaFisica:Contrato{
         base.MostrarDados();
         Console.WriteLine("Cpf: "+this.Cpf);
         Console.WriteLine("idade: "+this.Idade);
+        Console.WriteLine("");
     }
 }

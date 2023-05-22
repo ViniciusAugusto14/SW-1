@@ -8,6 +8,6 @@ class Contrato{
         Console.WriteLine("Nome: "+this.Nome);
         Console.WriteLine("Email: "+this.Email);
         Console.WriteLine("Telefone: "+this.Telefone);
-
+    
     }
 }
