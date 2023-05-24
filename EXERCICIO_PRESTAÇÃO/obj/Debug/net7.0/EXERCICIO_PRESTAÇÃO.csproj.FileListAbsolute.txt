@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\bin\Debug\net7.0\EXERCICIO_PRESTAÇÃO.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\bin\Debug\net7.0\EXERCICIO_PRESTAÇÃO.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\bin\Debug\net7.0\EXERCICIO_PRESTAÇÃO.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\bin\Debug\net7.0\EXERCICIO_PRESTAÇÃO.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\bin\Debug\net7.0\EXERCICIO_PRESTAÇÃO.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\EXERCICIO_PRESTAÇÃO.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\EXERCICIO_PRESTAÇÃO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\EXERCICIO_PRESTAÇÃO.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\EXERCICIO_PRESTAÇÃO.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\EXERCICIO_PRESTAÇÃO.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\EXERCICIO_PRESTAÇÃO.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\refint\EXERCICIO_PRESTAÇÃO.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\EXERCICIO_PRESTAÇÃO.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\EXERCICIO_PRESTAÇÃO.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\EXERCICIO_PRESTAÇÃO\obj\Debug\net7.0\ref\EXERCICIO_PRESTAÇÃO.dll
